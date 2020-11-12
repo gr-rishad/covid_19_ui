@@ -1,6 +1,7 @@
 import 'package:covid_19_ui/constant.dart';
 import 'package:flutter/material.dart';
 import './home_screen.dart';
+import './custom_clip_path.dart';
 
 void main() {
   runApp(
@@ -16,7 +17,7 @@ void main() {
           ),
         ),
       ),
-      home: HomeScreen(),
+      home: CustomClipPath(),
     ),
   );
 }

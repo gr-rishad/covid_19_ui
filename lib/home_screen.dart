@@ -16,8 +16,8 @@ class HomeScreen extends StatelessWidget {
                   begin: Alignment.topRight,
                   end: Alignment.bottomLeft,
                   colors: [
-                    Color(0xFF3383CD),
-                    Color(0xFF11249F),
+                   Color(0xFF3383CD),
+                   Color(0xFF11249F),
                   ],
                 ),
                 image: DecorationImage(
